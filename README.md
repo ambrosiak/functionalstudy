@@ -13,3 +13,4 @@
 * 홍성남/ magnet/ https://github.com/magneticrose
 * 오지환/ fureweb/ https://github.com/fureweb
 * 이두한/ duhan/ https://github.com/leeduhan
+* 김광민/ kyle/ https://github.com/ambrosiak
